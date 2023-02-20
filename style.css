@@ -2,7 +2,7 @@
 @import url(./vendor/normalize.css);
 
 .body{
-  background-color: black;
+
 }
 .body-grey{
   background-color: grey;
@@ -117,7 +117,7 @@ body {
 
 .bg {
   animation:slide 3s ease-in-out infinite alternate;
-  background-image: linear-gradient(100deg, #ef9090 40%, #ee6262 60%);
+  background-image: linear-gradient(-60deg, #ffffff 35%, #000000 65%);
   bottom:0;
   left:-50%;
   opacity:.5;
