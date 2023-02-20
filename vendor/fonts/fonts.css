@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Druk';
+
+  src: url(../fonts/DrukCyr-Medium/DrukCyr-Medium.woff2) format('woff2'),
+  url(../fonts/DrukCyr-Medium/DrukCyr-Medium.woff) format('woff');
+}
+
